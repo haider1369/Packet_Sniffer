@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Python Packet Sniffer  
+# 🕵️‍♂️ Packet Sniffer  
 A beginner-friendly, Windows‑compatible packet sniffer built using **Scapy** and **Psutil**.  
 Perfect for cybersecurity students learning about networking, packet capture, and analysis.
 
