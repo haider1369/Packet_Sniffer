@@ -18,14 +18,6 @@ Perfect for cybersecurity students learning about networking, packet capture, an
 
 ---
 
-## 📦 Requirements
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
----
-
 ## 📜 License
 MIT License.
 
